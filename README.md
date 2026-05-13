@@ -6,7 +6,7 @@ An interactive data analysis dashboard built with **Streamlit** that explores re
 
 ## 🚀 Live Demo
 
-👉 [Try it on Hugging Face Spaces](YOUR_HUGGINGFACE_SPACE_LINK_HERE)
+👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/Shourya512/Restaurant_Data_Analysis)
 
 ---
 
